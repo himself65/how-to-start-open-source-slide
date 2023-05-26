@@ -1,0 +1,16 @@
+{
+  "name": "how-to-open-source",
+  "private": true,
+  "packageManager": "pnpm@8.5.1",
+  "scripts": {
+    "build": "slidev build",
+    "dev": "slidev --open",
+    "export": "slidev export"
+  },
+  "dependencies": {
+    "@slidev/cli": "^0.41.1",
+    "@slidev/theme-apple-basic": "^0.20.0",
+    "@slidev/theme-default": "latest",
+    "@slidev/theme-seriph": "latest"
+  }
+}
