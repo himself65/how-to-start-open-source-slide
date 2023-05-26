@@ -21,10 +21,21 @@ layout: intro
   </span>
 </div>
 
+<!--
+介绍自己Alex，面包。
+推特
+-->
+
 ---
 layout: intro-image
 image: profile.png
 ---
+
+
+
+<!--
+GitHub主页，自己之前和现在在做的项目
+-->
 
 ---
 layout: two-cols
