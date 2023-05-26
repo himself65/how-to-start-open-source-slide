@@ -152,12 +152,29 @@ EventEmitter.prototype.once = function once(type, listener) {
 ```
 
 ---
-transition: fade-out
 ---
 # Node.js
 
 - https://github.com/nodejs/node/pull/25818/commits/bea7431f42de5323eadd0a879c1777093aea3d88#diff-330bdd22a188135540523f69deb4f9563e03b00a913cd369e1ee84d899f178a9
 - https://github.com/nodejs/node/commits?author=himself65
+
+---
+---
+# AFFiNE
+
+<img border="rounded" style="height: 400px" src="/affine.png?raw=true">
+
+---
+---
+# 开源
+
+- jotai
+- yjs
+- swr
+- next.js
+- pnpm
+- node.js
+- slidev
 
 ---
 layout: end
