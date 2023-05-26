@@ -52,16 +52,30 @@ https://podcasts.apple.com/us/podcast/%E5%AE%87%E5%AE%99%E4%B8%AD%E7%8C%AB/id165
   <Tweet id="1660806978116153346" scale="0.65" />
 </div>
 
+<!--
+宣传中猫的podcast，从里面大致的内容引出自己今天的话题
+-->
+
 ---
 layout: intro-image
 image: road-trip.jpg
 ---
 
---- 
+
+
+<!--
+介绍湾区
+-->
+
 ---
+
 # Google
 
 <img style="height: 400px;" src="/google.jpeg?raw=true">
+
+<!--
+谷歌朋友
+-->
 
 ---
 layout: two-cols
@@ -79,6 +93,10 @@ C Primer Plus 5th
 
 https://gpp.tkchu.me/
 
+<!--
+高中时候开始读书
+-->
+
 ---
 class: px-20
 ---
@@ -89,6 +107,10 @@ class: px-20
   <img border="rounded" src="/minecraft.jpeg?raw=true"/>
   <img border="rounded" src="/server.png?raw=true">
 </div>
+
+<!--
+兴趣是最好的老师
+-->
 
 ---
 layout: two-cols
@@ -133,7 +155,10 @@ result: undefiend
 ...
 ```
 
----
+<!--
+小小的问题
+-->
+
 ---
 
 ```js
@@ -162,6 +187,10 @@ EventEmitter.prototype.once = function once(type, listener) {
 };
 ```
 
+<!--
+Node.js 的 bug
+-->
+
 ---
 ---
 # Node.js
@@ -170,13 +199,29 @@ EventEmitter.prototype.once = function once(type, listener) {
 - https://github.com/nodejs/node/commits?author=himself65
 
 ---
+
+# BlockSuite
+
+<img border="rounded" style="height: 400px" src="/blocksuite.png?raw=true">
+
+<!--
+BlockSuite 编辑器，是AFFiNE的底层
+-->
+
 ---
+
 # AFFiNE
 
 <img border="rounded" style="height: 400px" src="/affine.png?raw=true">
 
+<!--
+AFFiNE是我目前主导的项目，整个Web端架构设计都是我一个人来完成的。
+
+稍微讲一下创业。
+-->
+
 ---
----
+
 # 开源
 
 - jotai
@@ -187,6 +232,26 @@ EventEmitter.prototype.once = function once(type, listener) {
 - node.js
 - slidev
 
+<!--
+开源不仅仅是只将代码放在网上，而是一种与人合作的一种方式
+-->
+
+---
+
+# 最后
+
+- 不断学习
+- 与他人合作
+- 提出自己的看法
+
+<!--
+- WebGPU，shader
+- 参与社区（哪怕是issue）
+- 与人沟通
+-->
+
 ---
 layout: end
 ---
+
+END
