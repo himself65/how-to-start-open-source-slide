@@ -58,7 +58,7 @@ https://podcasts.apple.com/us/podcast/%E5%AE%87%E5%AE%99%E4%B8%AD%E7%8C%AB/id165
 
 ---
 layout: intro-image
-image: road-trip.jpg
+image: /road-trip.jpg
 ---
 
 
