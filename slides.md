@@ -28,7 +28,7 @@ layout: intro
 
 ---
 layout: intro-image
-image: profile.png
+image: /profile.png
 ---
 
 
